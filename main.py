@@ -1,2 +1,4 @@
 import datetime
-print('Hello world!')
+
+datetime_object = datetime.date.today()
+print(datetime_object)
